@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💬 FAQ Chatbot — NLP-Powered Question Answering System
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://python.org)
@@ -220,3 +221,6 @@ MIT License — feel free to use this project for personal, academic, or commerc
 Built as an internship project demonstrating practical NLP engineering skills.
 
 > ⭐ If you found this helpful, please give it a star!
+=======
+# Chatbot
+>>>>>>> 81c5eb355fba5273059c1cfef3e25eaecdb3e0ea
