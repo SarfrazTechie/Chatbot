@@ -1,0 +1,70 @@
+timestamp,user_query,matched_question,confidence,category,is_fallback
+2026-04-25 03:31:48,How do I reset my password?,How do I reset my password?,100.0,Account,False
+2026-04-25 03:32:34,how are you?,N/A,0.0,Fallback,True
+2026-04-25 03:37:08,privacy?,N/A,0.0,Fallback,True
+2026-04-25 03:37:15,privacy,N/A,0.0,Fallback,True
+2026-04-25 03:37:22,How is my data protected?,How is my data protected?,100.0,Privacy,False
+2026-04-25 03:37:24,What's included in the free plan?,What features are included in the free plan?,83.95,Features,False
+2026-04-25 03:37:27,Is there a mobile app?,Is there a mobile app available?,78.1,Technical,False
+2026-04-25 03:37:58,How is my data protected?,How is my data protected?,100.0,Privacy,False
+2026-04-25 03:48:27,How do I reset my password?,How do I reset my password?,100.0,Account,False
+2026-04-28 02:42:44,what?,N/A,0,Unknown,True
+2026-04-28 02:42:52,hello,N/A,0,Unknown,True
+2026-04-28 02:43:06,which type of trouble?,N/A,0,Unknown,True
+2026-04-28 02:54:44,hi,N/A,0,Unknown,True
+2026-04-28 02:55:02,i wanna help you ,N/A,0,Unknown,True
+2026-04-28 02:55:37,i am making a project for internship,N/A,0,Unknown,True
+2026-04-28 03:00:59,hello ,N/A,0,Unknown,True
+2026-04-28 03:01:39,give me an example  of life,N/A,0,Unknown,True
+2026-04-28 03:01:56,in urdu,N/A,0,Unknown,True
+2026-04-28 03:02:43,i have a privacy concern,N/A,0,Unknown,True
+2026-04-28 03:02:57,How do I reset my password?,How do I reset my password?,100.0,Account,False
+2026-04-29 17:04:13,hy,N/A,0,Unknown,True
+2026-04-29 17:04:25,hy,N/A,0,Unknown,True
+2026-04-29 17:04:45,hello how are you,N/A,0,Unknown,True
+2026-04-29 17:04:57,how made you?,N/A,0,Unknown,True
+2026-04-29 17:05:26,in which country you are ,N/A,0,Unknown,True
+2026-04-29 17:05:36,where are you from?,N/A,0,Unknown,True
+2026-04-29 17:05:57,know about pakistan?,N/A,0,Unknown,True
+2026-04-29 17:06:23,What's in the free plan?,What features are included in the free plan?,63.98,Features,False
+2026-04-29 17:07:02,How is my data protected?,How is my data protected?,100.0,Privacy,False
+2026-04-29 17:07:29,Is there a free trial?,What features are included in the free plan?,38.43,Features,False
+2026-04-29 17:07:41,know about claude?,N/A,0,Unknown,True
+2026-04-29 17:07:56,know about claude ai?,N/A,0,Unknown,True
+2026-04-29 17:13:30,How do I reset my password?,How do I reset my password?,100.0,Account,False
+2026-04-29 17:13:31,How do I reset my password?,How do I reset my password?,100.0,Account,False
+2026-04-30 02:32:09,hi,N/A,0,Unknown,True
+2026-04-30 02:36:30,Payment methods,What payment methods do you accept?,77.46,Billing,False
+2026-04-30 02:36:36,hello,N/A,0,Unknown,True
+2026-04-30 02:43:51,hi,N/A,0,Unknown,True
+2026-04-30 02:44:02,What payment methods accepted?,What payment methods do you accept?,77.46,Billing,False
+2026-04-30 02:44:10,Do you offer refunds?,Do you offer refunds?,100.0,Billing,False
+2026-04-30 02:44:11,Do you offer refunds?,Do you offer refunds?,100.0,Billing,False
+2026-04-30 02:44:13,How is my data protected?,How is my data protected?,100.0,Privacy,False
+2026-04-30 02:44:44,do you share data with third parties?,Do you share my data with third parties?,100.0,Privacy,False
+2026-04-30 02:48:54,How do I reset my password?,How do I reset my password?,100.0,Account,False
+2026-04-30 02:49:18,What payment methods accepted?,What payment methods do you accept?,77.46,Billing,False
+2026-04-30 02:49:19,What payment methods accepted?,What payment methods do you accept?,77.46,Billing,False
+2026-04-30 02:49:23,hi,N/A,0,Unknown,True
+2026-04-30 02:54:23,hi,N/A,0,Unknown,True
+2026-04-30 02:54:30,how are you,N/A,0,Unknown,True
+2026-04-30 02:54:42,What payment methods accepted?,What payment methods do you accept?,77.46,Billing,False
+2026-04-30 02:57:37,"File ""C:\Users\BEAST\Downloads\files\venv\Lib\site-packages\streamlit\runtime\scriptrunner\exec_code.py"", line 88, in exec_func_with_error_handling
+    result = func()
+             ^^^^^^
+File ""C:\Users\BEAST\Downloads\files\venv\Lib\site-packages\streamlit\runtime\scriptrunner\script_runner.py"", line 579, in code_to_exec
+    exec(code, module.__dict__)
+File ""C:\Users\BEAST\Downloads\files\app.py"", line 159, in <module>
+    ai_result  = get_ai_answer(
+                 ^^^^^^^^^^^^^^
+File ""C:\Users\BEAST\Downloads\files\utils\ai_engine.py"", line 18, in get_ai_answer
+    response = client.chat.completions.create(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+File ""C:\Users\BEAST\Downloads\files\venv\Lib\site-packages\groq\resources\chat\completions.py"", line 461, in create
+    return self._post(
+           ^^^^^^^^^^^
+File ""C:\Users\BEAST\Downloads\files\venv\Lib\site-packages\groq\_base_client.py"", line 1284, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+File ""C:\Users\BEAST\Downloads\files\venv\Lib\site-packages\groq\_base_client.py"", line 1071, in request
+    raise self._make_status_error_from_response(err.response) ?",How do I create an account?,60.06,Account,False

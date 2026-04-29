@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "category": "Account",
+    "question": "How do I create an account?",
+    "answer": "To create an account, click the 'Sign Up' button on our homepage, enter your email address and a strong password, then verify your email through the confirmation link we send you. The process takes less than 2 minutes."
+  },
+  {
+    "id": 2,
+    "category": "Account",
+    "question": "How do I reset my password?",
+    "answer": "To reset your password, click 'Forgot Password' on the login page, enter your registered email address, and follow the reset link sent to your inbox. The link expires in 24 hours for security."
+  },
+  {
+    "id": 3,
+    "category": "Account",
+    "question": "How do I delete my account?",
+    "answer": "To delete your account, go to Settings > Account > Delete Account. Please note this action is irreversible and will permanently remove all your data. We recommend exporting your data before deletion."
+  },
+  {
+    "id": 4,
+    "category": "Billing",
+    "question": "What payment methods do you accept?",
+    "answer": "We accept all major credit cards (Visa, MasterCard, American Express), PayPal, and bank transfers for annual plans. All transactions are secured with 256-bit SSL encryption."
+  },
+  {
+    "id": 5,
+    "category": "Billing",
+    "question": "How do I cancel my subscription?",
+    "answer": "You can cancel your subscription anytime from Settings > Billing > Cancel Plan. Your access continues until the end of the current billing period. No cancellation fees apply."
+  },
+  {
+    "id": 6,
+    "category": "Billing",
+    "question": "Do you offer refunds?",
+    "answer": "Yes, we offer a 30-day money-back guarantee for new subscriptions. If you're unsatisfied within 30 days of purchase, contact our support team for a full refund. Refunds are processed within 5–7 business days."
+  },
+  {
+    "id": 7,
+    "category": "Technical",
+    "question": "What browsers are supported?",
+    "answer": "We support the latest versions of Chrome, Firefox, Safari, and Edge. For the best experience, we recommend keeping your browser updated. Internet Explorer is not supported."
+  },
+  {
+    "id": 8,
+    "category": "Technical",
+    "question": "Is there a mobile app available?",
+    "answer": "Yes! Our mobile app is available for iOS (App Store) and Android (Google Play). It offers full functionality including offline mode for saved content."
+  },
+  {
+    "id": 9,
+    "category": "Technical",
+    "question": "How do I report a bug?",
+    "answer": "To report a bug, use the 'Report Issue' button in the Help menu, or email bugs@company.com. Please include your browser version, operating system, and steps to reproduce the issue. Screenshots are helpful."
+  },
+  {
+    "id": 10,
+    "category": "Privacy",
+    "question": "How is my data protected?",
+    "answer": "We use AES-256 encryption for data at rest and TLS 1.3 for data in transit. We are GDPR and CCPA compliant. Your data is never sold to third parties. Read our full privacy policy at company.com/privacy."
+  },
+  {
+    "id": 11,
+    "category": "Privacy",
+    "question": "Do you share my data with third parties?",
+    "answer": "We do not sell or rent your personal data. We only share data with trusted service providers (e.g., payment processors) strictly necessary to operate our service, under confidentiality agreements."
+  },
+  {
+    "id": 12,
+    "category": "Features",
+    "question": "What features are included in the free plan?",
+    "answer": "The free plan includes up to 5 projects, 1GB storage, basic analytics, and email support. Upgrade to Pro for unlimited projects, 50GB storage, advanced analytics, and priority support."
+  },
+  {
+    "id": 13,
+    "category": "Features",
+    "question": "Can I collaborate with team members?",
+    "answer": "Yes! Team collaboration is available on the Pro and Business plans. You can invite members via email, assign roles (Admin, Editor, Viewer), and collaborate in real-time with change tracking."
+  },
+  {
+    "id": 14,
+    "category": "Features",
+    "question": "Is there an API available?",
+    "answer": "Yes, we provide a RESTful API for Pro and Business plan users. Full documentation is available at docs.company.com/api. API keys can be generated from Settings > Developer > API Keys."
+  },
+  {
+    "id": 15,
+    "category": "Support",
+    "question": "How do I contact customer support?",
+    "answer": "You can reach our support team via live chat (available 9am–6pm EST), email at support@company.com, or by submitting a ticket at company.com/support. Pro users receive priority response within 4 hours."
+  },
+  {
+    "id": 16,
+    "category": "Support",
+    "question": "What are your support hours?",
+    "answer": "Our live chat support is available Monday–Friday, 9am–6pm EST. Email support operates 24/7 with responses within 24 hours. Emergency support for Business plan users is available around the clock."
+  },
+  {
+    "id": 17,
+    "category": "Account",
+    "question": "Can I change my email address?",
+    "answer": "Yes, you can update your email address in Settings > Profile > Email. A confirmation will be sent to both your old and new email addresses for security verification."
+  },
+  {
+    "id": 18,
+    "category": "Billing",
+    "question": "How do I upgrade my plan?",
+    "answer": "To upgrade, go to Settings > Billing > Upgrade Plan. Choose your desired plan and payment method. Upgrades take effect immediately and you'll be charged a prorated amount for the remainder of your billing cycle."
+  },
+  {
+    "id": 19,
+    "category": "Technical",
+    "question": "Why is the application running slowly?",
+    "answer": "Slow performance can be caused by browser cache, extensions, or network issues. Try clearing your cache, disabling extensions, or switching browsers. If issues persist, check our status page at status.company.com."
+  },
+  {
+    "id": 20,
+    "category": "Features",
+    "question": "Does the app work offline?",
+    "answer": "Offline mode is available in our mobile apps for previously synced content. The web app requires an internet connection, but auto-saves your work and syncs when you reconnect."
+  }
+]
